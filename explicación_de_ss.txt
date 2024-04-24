@@ -13,3 +13,11 @@ Para usar la herramienta offline (en este caso hashcat) se hizo lo siguiente:
 4. Correr este comando: .\hashcat.exe target_hashes.txt words2.txt -m 100, en donde hashcat.exe es el programa de hashcat, target_hashes es el archivo con los hashes a romer, words2.txt es el 
 diccionario con palabras a usar como contraseña y -m 100 es el tipo de desencriptado a usar.
 5. Esperar a que la librería de respuesta.
+6. Estos pasos aplican para las capturas llamadas "Contraseña 5", "Contraseña 6", "Contraseña 7", "Contraseña 8", "Contraseña 9", "Contraseña 10".
+
+Para la captura llamada Hashes.com se hizo lo siguiente: 
+
+1. Se entró al link hashes.com
+2. Se introdujeron los hashes que se querían descifrar.
+3. Luego se introdujo el captcha que pide para verificar que no sea robot.
+4. Se visualizó el resultado que obtuvo la página.
